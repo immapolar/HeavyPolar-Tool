@@ -71,11 +71,8 @@ LIBRARIES = [
 4. Automated hidden marker creation
 5. Automated extraction on startup
 6. Extraction performed repeatedly every specified period
-7. Process lineage checks
-8. Hidden file operations
-9. Windowless execution
 
-### Token Extraction
+### Extraction Method
 - Chrome-based browser token decryption
 - Multi-path token scanning
 - Encrypted token parsing
